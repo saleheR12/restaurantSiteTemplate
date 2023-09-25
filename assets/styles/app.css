@@ -378,6 +378,7 @@
         -moz-border-radius: 0.5rem;
         -ms-border-radius: 0.5rem;
         -o-border-radius: 0.5rem;
+        cursor: pointer;
     }
     
     .popular-foods-boxes .popular-food-box img {
@@ -498,6 +499,7 @@
         -moz-border-radius: 0.5rem;
         -ms-border-radius: 0.5rem;
         -o-border-radius: 0.5rem;
+        cursor: pointer;
     }
     
     .about .container .row .about-content .about-icons .about-icon svg {
@@ -550,6 +552,7 @@
         -moz-border-radius: 0.5rem;
         -ms-border-radius: 0.5rem;
         -o-border-radius: 0.5rem;
+        cursor: pointer;
     }
     
     .menu .menu-boxes-container .menu-box .menu-image {
